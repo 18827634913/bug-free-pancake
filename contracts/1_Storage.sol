@@ -26,4 +26,9 @@ contract Storage {
     function retrieve() public view returns (uint256){
         return number;
     }
+
+    function mint(address to,uint256 value) public {
+        // 这是手动添加的代码
+        
+    }
 }
