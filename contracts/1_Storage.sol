@@ -35,4 +35,8 @@ contract Storage {
     function burn(uint256 value) public {
         //github手动修改
     }
+
+    function dev() public {
+        //新增dev
+    }
 }
