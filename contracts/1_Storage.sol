@@ -31,4 +31,8 @@ contract Storage {
         // 这是手动添加的代码
         
     }
+
+    function burn(uint256 value) public {
+        //github手动修改
+    }
 }
